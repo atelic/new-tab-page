@@ -12,3 +12,8 @@ git clone https://github.com/barbour-em/new-tab-page
 #+end_src bash
 
 - [[https://developer.chrome.com/extensions/getstarted#unpacked][Load the extension in Chrome]]
+
+** Customizing
+- Uncomment [[https://github.com/barbour-em/new-tab-page/blob/master/start-page.html#L7][this line]] to use the dark theme instead
+- Add, remove or modify the table in =start-page.html= to use your own links
+- The search boxes can be modified in =tab.js=
