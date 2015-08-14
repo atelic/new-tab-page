@@ -3,6 +3,9 @@
 - Light and Dark color themes
 - Easy to customize links for your own use
 - Directly search Reddit, GitHub, Youtube, and more
+#+CAPTION: This is the caption for the next figure link (or table)
+#+NAME:   fig:SED-HR4049
+[[./screenshot.png]]
 
 ** Installation:
 - Clone this repository
