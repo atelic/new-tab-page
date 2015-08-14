@@ -1,0 +1,14 @@
+* A customizable Chrome New Tab page
+** Features:
+- Light and Dark color themes
+- Easy to customize links for your own use
+- Directly search Reddit, GitHub, Youtube, and more
+
+** Installation:
+- Clone this repository
+
+#+begin_src bash
+git clone https://github.com/barbour-em/new-tab-page
+#+end_src bash
+
+- [[https://developer.chrome.com/extensions/getstarted#unpacked][Load the extension in Chrome]]
